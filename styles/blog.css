@@ -17,3 +17,13 @@ nav li:hover
     border-style: solid;
     border-radius: 2px;
 }
+
+figure img
+{
+    width:400px ;
+}
+
+footer
+{
+    text-align: center;
+}
