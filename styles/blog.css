@@ -1,40 +1,11 @@
 *
 {
-background-color: bisque;
+/* background-color: bisque; */
 }
-
-nav
+body
 {
-    border: 20px solid maroon;
-    /* border-radius: 10px; */
-    background-color: lightpink;
-    width: 20%;
-    display: flex;
-    margin-left:40%;
-  
+    background-color: bisque;
 }
-
-
-nav li a
-{
-text-decoration: none;
-}
-
-nav li 
-{
-    list-style: none;
-    display:inline;
-    margin-right: 15px;
-}
-
-nav li:hover
-{
-    background-color: brown;
-    padding: 5px;
-    border-style: solid;
-    border-radius: 2px;
-}
-
 figure img
 {
     width:400px ;
