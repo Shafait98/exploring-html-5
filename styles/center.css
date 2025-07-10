@@ -1,0 +1,29 @@
+.container
+    {
+      background-color: aquamarine;
+      display: flex;
+      justify-content: center;
+      height: 300px;
+     width: 800px;
+     margin-left: 20%;
+     margin-top: 10%;
+     
+    }
+
+    .box
+    {
+        background-color: brown;
+        height: 250px;
+        width: 400px;
+        border: 5px solid black;
+        margin-top: 20px;
+    }
+
+    .heading
+    {
+        margin: 0;
+        /* margin-left: px; */
+        padding: 60px;
+        font-size: 3em;
+        text-align: center;
+    }
