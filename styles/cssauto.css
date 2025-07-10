@@ -13,3 +13,22 @@
     margin-top: 50px;
 
 }
+
+.card-container
+{
+    background-color:bisque;
+    height: 500px;
+    width: 60%;
+    margin:0 auto;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.card
+{
+    background-color: rgb(159, 92, 159);
+    height: 200px;
+    width:400px;
+    
+}
