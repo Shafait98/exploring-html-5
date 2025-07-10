@@ -1,0 +1,15 @@
+.container
+{
+    background-color: bisque;
+    height:800px;
+    display: flex;
+    justify-content: center; /*for horizontal axis control */
+    align-items: center; /*for vertical axis control */
+}
+
+.card 
+{
+    background-color: brown;
+    width: 250px;
+    height: 200px;
+}
