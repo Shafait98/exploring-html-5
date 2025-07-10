@@ -1,0 +1,15 @@
+.container
+{
+    background-color: antiquewhite;
+}
+
+.content 
+{
+    background-color:mediumaquamarine ;
+    font-size: 2em;
+    max-width: 800px;
+    margin: 0 auto;   /* for horizontally center item    */
+    padding: 20px;
+    margin-top: 50px;
+
+}
