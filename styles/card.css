@@ -2,7 +2,7 @@
 body 
 
 {
-    max-width: 1170px;
+    max-width: 1920;
     margin: 0 auto;
 }
 
@@ -15,7 +15,7 @@ body
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
-   
+   margin-left:60px;
 }
 
 
